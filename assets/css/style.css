@@ -3,5 +3,11 @@ body {
     background-position: center center;
 }
 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0.25in;
+    text-indent: .35in;
+    color: #777;
+}
 
 
