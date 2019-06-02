@@ -22,6 +22,18 @@ p {
 }
 
 .footer {
-    border-top: 2px solid #4aaaa5;
     text-align: center;
+    border-top: 5px solid #4aaaa5;
+    padding-top: 40px;
+    background: #666;
+    color: #fff;
+    font-size: .8rem;
 }
+
+#submit {
+    background: #4aaaa5;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px 18px 6px 18px;
+    margin-top: 8px;
+    border: none;
